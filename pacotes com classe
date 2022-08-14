@@ -1,0 +1,11 @@
+package provedor;
+public class atendimento {
+  atributos: rapido e eficaz
+  métodos: corrigir erros
+}
+
+package banco;
+public class caixa{
+  atributos: simples, rápido
+  métodos: depósitos e saques
+}
